@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+
+nav{
+	background-color:lightblue;
+}
+ul{
+	list-style-type:none;
+}
